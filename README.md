@@ -1,0 +1,2 @@
+# VMCorePkg
+VMware Test VMs
